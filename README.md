@@ -11,3 +11,5 @@ Welcome to the CodSoft Java Development Internship repository! This documents sh
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+   
+![Screenshot 2024-04-06 164745](https://github.com/Pujadhara/CODSOFT/assets/162097778/3c434fc8-f56c-4ace-9d8e-f2837d8b1c83)
