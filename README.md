@@ -13,3 +13,12 @@ Welcome to the CodSoft Java Development Internship repository! This documents sh
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
    
 ![Screenshot 2024-04-06 164745](https://github.com/Pujadhara/CODSOFT/assets/162097778/3c434fc8-f56c-4ace-9d8e-f2837d8b1c83)
+
+## TASK-2 (STUDENT GRADE CALCULATOR)
+- Input: Take marks obtained (out of 100) in each subject.
+- Calculate Total Marks: Sum up the marks obtained in all subjects.
+- Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
+- Grade Calculation: Assign grades based on the average percentage achieved.
+- Display Results: Show the total marks, average percentage, and the corresponding grade to the use.
+
+![Screenshot 2024-04-10 110639](https://github.com/Pujadhara/CODSOFT/assets/162097778/2b0f9e3a-268f-4b06-874c-a6cc47da4c45)
